@@ -1,0 +1,23 @@
+{
+  "name": "Prova1",
+  "version": "0.0.1",
+  "description": "Its just a test to get started in Vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "Biancano",
+    "email": "vani15_i@hotmail.com"
+  },
+  "repository": "https://github.com/iBiancano/VuePressP1/Prova1",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7"
+  }
+}
